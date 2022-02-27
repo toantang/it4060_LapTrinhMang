@@ -1,0 +1,3 @@
+﻿  client_UDP.cpp
+C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai1\client_UDP\client_UDP\client_UDP.cpp(4,35): warning C4081: expected 'newline'; found ';'
+  client_UDP.vcxproj -> C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai1\client_UDP\Debug\client_UDP.exe

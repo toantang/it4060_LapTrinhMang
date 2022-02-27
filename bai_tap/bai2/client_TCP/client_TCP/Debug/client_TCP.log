@@ -1,0 +1,3 @@
+﻿  client_TCP.cpp
+C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai2\client_TCP\client_TCP\client_TCP.cpp(34,6): warning C4101: 'messageLen': unreferenced local variable
+  client_TCP.vcxproj -> C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai2\client_TCP\Debug\client_TCP.exe

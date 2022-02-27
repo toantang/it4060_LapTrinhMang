@@ -1,0 +1,3 @@
+tungbt 1
+ductq 0
+admin 1

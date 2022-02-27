@@ -1,0 +1,7 @@
+﻿  server_TCP_thread.cpp
+C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai3\server_TCP_thread\server_TCP_thread\server_TCP_thread.cpp(183,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai3\server_TCP_thread\server_TCP_thread\server_TCP_thread.cpp(331,10): warning C4101: 'buff': unreferenced local variable
+C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai3\server_TCP_thread\server_TCP_thread\server_TCP_thread.cpp(334,9): warning C4101: 'clientPort': unreferenced local variable
+C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai3\server_TCP_thread\server_TCP_thread\server_TCP_thread.cpp(333,9): warning C4101: 'ret': unreferenced local variable
+C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai3\server_TCP_thread\server_TCP_thread\server_TCP_thread.cpp(325): warning C4715: 'handleSocket': not all control paths return a value
+  server_TCP_thread.vcxproj -> C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai3\server_TCP_thread\Debug\server_TCP_thread.exe

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "client_UDP", "client_UDP\client_UDP.vcxproj", "{91987168-64A9-4171-B9A3-0556B67064BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91987168-64A9-4171-B9A3-0556B67064BA}.Debug|x64.ActiveCfg = Debug|x64
+		{91987168-64A9-4171-B9A3-0556B67064BA}.Debug|x64.Build.0 = Debug|x64
+		{91987168-64A9-4171-B9A3-0556B67064BA}.Debug|x86.ActiveCfg = Debug|Win32
+		{91987168-64A9-4171-B9A3-0556B67064BA}.Debug|x86.Build.0 = Debug|Win32
+		{91987168-64A9-4171-B9A3-0556B67064BA}.Release|x64.ActiveCfg = Release|x64
+		{91987168-64A9-4171-B9A3-0556B67064BA}.Release|x64.Build.0 = Release|x64
+		{91987168-64A9-4171-B9A3-0556B67064BA}.Release|x86.ActiveCfg = Release|Win32
+		{91987168-64A9-4171-B9A3-0556B67064BA}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AECB538F-3B44-4750-84C5-5E22E2DE1C8B}
+	EndGlobalSection
+EndGlobal

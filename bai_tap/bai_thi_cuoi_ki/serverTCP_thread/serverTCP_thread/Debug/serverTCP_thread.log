@@ -1,0 +1,5 @@
+﻿  serverTCP_thread.cpp
+C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai_thi_cuoi_ki\serverTCP_thread\serverTCP_thread\serverTCP_thread.cpp(112,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai_thi_cuoi_ki\serverTCP_thread\serverTCP_thread\serverTCP_thread.cpp(135,7): warning C4101: 'buff': unreferenced local variable
+C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai_thi_cuoi_ki\serverTCP_thread\serverTCP_thread\serverTCP_thread.cpp(136,6): warning C4101: 'ret': unreferenced local variable
+  serverTCP_thread.vcxproj -> C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai_thi_cuoi_ki\serverTCP_thread\Debug\serverTCP_thread.exe

@@ -1,0 +1,4 @@
+﻿  server_UDP.cpp
+C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai1\server_UDP\server_UDP\server_UDP.cpp(27,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai1\server_UDP\server_UDP\server_UDP.cpp(44,21): warning C4018: '<': signed/unsigned mismatch
+  server_UDP.vcxproj -> C:\Users\Admin\Desktop\lap_trinh_mang\bai_tap\bai1\server_UDP\Debug\server_UDP.exe
